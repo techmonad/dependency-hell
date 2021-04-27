@@ -25,3 +25,5 @@
 - techmonad/spark-datasets
 - techmonad/spark-data-pipeline
 - techmonad/stream-processing-engine
+- techmonad/PolyDesk
+- techmonad/taxmeter-api
