@@ -21,3 +21,4 @@
 - techmonad/spark-datasets
 - techmonad/PolyDesk
 - techmonad/taxmeter-api
+- akka-scheduler
