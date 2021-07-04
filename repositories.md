@@ -1,4 +1,5 @@
 # Dependency Hell
+- techmonad/playground
 - techmonad/akka-http-client-examples
 - techmonad/akka-http-file-upload-examples
 - techmonad/akka-http-jwt-security
