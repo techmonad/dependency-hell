@@ -21,6 +21,7 @@
 - techmonad/play-slick-example
 - techmonad/scala-lenses
 - techmonad/spark-datasets
+- techmonad/spark-data-pipeline
 - techmonad/PolyDesk
 - techmonad/taxmeter-api
 - techmonad/akka-scheduler
