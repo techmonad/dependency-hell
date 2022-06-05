@@ -25,3 +25,5 @@
 - techmonad/PolyDesk
 - techmonad/taxmeter-api
 - techmonad/akka-scheduler
+- techmonad/shrike-api
+- techmonad/shrike-platform
